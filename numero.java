@@ -14,6 +14,9 @@ public class numero {
 		
 		System.out.println("El doble del numero que ingresaste es " + numero*2);
 		
+		System.out.println("El triple del numero que ingresaste es " + numero*3);
+
+		
 		dato.close();;
 		
 		
